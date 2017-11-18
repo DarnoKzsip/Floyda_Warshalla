@@ -1,0 +1,6 @@
+C:\Users\Konrad\Desktop\AlgorytmyC#\Floyda_Warshalla\Floyda_Warshalla\bin\Debug\Floyda_Warshalla.exe.config
+C:\Users\Konrad\Desktop\AlgorytmyC#\Floyda_Warshalla\Floyda_Warshalla\bin\Debug\Floyda_Warshalla.exe
+C:\Users\Konrad\Desktop\AlgorytmyC#\Floyda_Warshalla\Floyda_Warshalla\bin\Debug\Floyda_Warshalla.pdb
+C:\Users\Konrad\Desktop\AlgorytmyC#\Floyda_Warshalla\Floyda_Warshalla\obj\Debug\Floyda_Warshalla.csprojResolveAssemblyReference.cache
+C:\Users\Konrad\Desktop\AlgorytmyC#\Floyda_Warshalla\Floyda_Warshalla\obj\Debug\Floyda_Warshalla.exe
+C:\Users\Konrad\Desktop\AlgorytmyC#\Floyda_Warshalla\Floyda_Warshalla\obj\Debug\Floyda_Warshalla.pdb
